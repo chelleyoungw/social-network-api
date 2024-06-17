@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Uses Express.js for routing, a MongoDB database, and the Mongoose ODM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelleyoungw/social-network-api.git"
+  },
+  "author": "Chelle Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chelleyoungw/social-network-api/issues"
+  },
+  "homepage": "https://github.com/chelleyoungw/social-network-api#readme",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  }
+}
